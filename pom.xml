@@ -87,12 +87,14 @@
          <artifactId>jboss-ejb-api_3.1_spec</artifactId>
          <scope>provided</scope>
       </dependency>
-      <dependency>
+      <!--
+	  <dependency>
          <groupId>mysql</groupId>
          <artifactId>mysql-connector-java</artifactId>
          <version>5.1.20</version>
       </dependency>
-
+	  -->
+	  
       <!-- JSR-303 (Bean Validation) Implementation -->
       <!-- Provides portable constraints such as @Email -->
       <!-- Hibernate Validator is shipped in JBoss AS 7 -->
