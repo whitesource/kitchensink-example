@@ -87,13 +87,13 @@
          <artifactId>jboss-ejb-api_3.1_spec</artifactId>
          <scope>provided</scope>
       </dependency>
-      
+      <!--
 	  <dependency>
          <groupId>mysql</groupId>
          <artifactId>mysql-connector-java</artifactId>
          <version>5.1.20</version>
       </dependency>
-	  
+	  -->
 	  
 	  
       <!-- JSR-303 (Bean Validation) Implementation -->
